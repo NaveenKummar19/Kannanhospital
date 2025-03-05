@@ -609,3 +609,11 @@ footer .text-reset:hover {
     position: absolute;
     bottom: 0;
 }
+
+
+
+
+.span {
+    font-size: 14px;
+    color: #757575;
+}

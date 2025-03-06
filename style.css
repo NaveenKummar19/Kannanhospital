@@ -540,6 +540,7 @@ footer .text-reset:hover {
 
 .tab-content .tab-pane .row .treat-image img {
     height: 185px !important;
+    width: 295px;
     border-radius: 28px;
 }
 

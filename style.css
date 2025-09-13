@@ -618,3 +618,31 @@ footer .text-reset:hover {
     font-size: 14px;
     color: #757575;
 }
+
+
+
+
+
+@media (max-width: 576px) {
+    .sectionOne h1 {
+        font-size: 2rem;
+    }
+
+    .sectionOne p {
+        font-size: 1rem;
+    }
+
+    .banner-image img {
+        width: 100%;
+        height: auto;
+    }
+
+    .Categories .cardCatogory h4 {
+        font-size: 1.1rem;
+        padding: 1rem;
+    }
+
+    .footer .logo {
+        max-width: 120px;
+    }
+}
